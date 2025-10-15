@@ -8,7 +8,7 @@ This repository contains codes and video demonstrations of fundamental ARM Assem
 | Problem 2: Eucledean Algorithm for GCD | *to be uploaded by Oct 15, 2025* |
 | Problem 3: Bitwise Parity Checker | *to be uploaded by Oct 15, 2025* |
 | Problem 4: Swap Nibbles in a Byte | *to be uploaded by Oct 15, 2025* |
-| Problem 5: Find the Maximum Value in an Array | *to be uploaded by Oct 15, 2025* |
+| Problem 5: Find the Maximum Value in an Array | (https://youtu.be/4k0UAg65tG8?si=EjlSEhkO-bDhbn3Y)|
 
 
 Insights in programming ARM Assembly -
