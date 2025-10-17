@@ -12,14 +12,16 @@ loop:
 	
 cond1:
 	sub r0, r0, r1		//r0= r0-r1 then store result to r0
-	b loop
+	b loop				//Repeat
 	
 cond2: 
 	sub r1, r1, r0		//r1= r1-r0 then store result to r1
+	b loop				//Repeat
 	
 end:
 	swi 0
 	
 	
 	
+
 	
