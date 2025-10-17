@@ -1,6 +1,6 @@
 .global _start
 _start:
-	mov r0, #5		//input number; store #19 to r0
+	mov r0, #15		//input number to r0
 	mov r1, #0		//Initialize parity accumulator to #0
 	
 loop:
@@ -17,4 +17,5 @@ end:
 	b end
 	
 	
+
 	
