@@ -11,8 +11,10 @@ This repository contains codes and video demonstrations of fundamental ARM Assem
 | Problem 5: Find the Maximum Value in an Array | (https://youtu.be/mA5HCfa3v9A?si=EgvoIS2iYlGpMkYC)|
 
 
-Insights in programming ARM Assembly -
+## Insights in programming ARM Assembly
+
 "Overall, it is essential to develop a strong understanding of how registers function, including their roles and what they represent based on the code being executed. Moreover, familiarity with the appropriate instructions for addressing, memory storage, bit manipulation, arithmetic operations, and related tasks is crucial for writing efficient and effective ARM assembly code."
 
-Challenges in ARM Assembly: Euclidean Algorithm and the UDIV Instruction-
+## Challenges in ARM Assembly: Euclidean Algorithm and the UDIV Instruction
+
 "One of the primary challenges encountered when implementing the Euclidean algorithm for computing the Greatest Common Divisor (GCD) in ARM assembly is the use of the UDIV instruction, which performs unsigned integer division. A significant difficulty arises from the fact that not all ARMv7 processors support hardware division instructions such as UDIV and SDIV. As a workaround for the absence of hardware division support, the modulo operation required by the Euclidean algorithm can be manually implemented by first performing an integer division through repeated subtraction or emulation, and then using the result in combination with multiply (MUL) and subtract (SUB) instructions to compute the remainder (i.e., a % b = a - (a / b) * b)."
