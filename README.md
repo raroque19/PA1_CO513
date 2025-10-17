@@ -5,8 +5,8 @@ This repository contains codes and video demonstrations of fundamental ARM Assem
 | Programming Assignment | Video |
 |------------------------|-------|
 | Problem 1: Factorial Calculation | (https://youtu.be/_BDSWZ2rjVg) |
-| Problem 2: Eucledean Algorithm for GCD | *to be uploaded by Oct 15, 2025* |
-| Problem 3: Bitwise Parity Checker | *to be uploaded by Oct 15, 2025* |
+| Problem 2: Eucledean Algorithm for GCD | (https://youtu.be/5BfBHbEHxZ4?si=OXaQhehjfiii0SSC) |
+| Problem 3: Bitwise Parity Checker | (https://youtu.be/eF1ErdpETOQ?si=5zt4N0WV5nxOXxU3)|
 | Problem 4: Swap Nibbles in a Byte | (https://youtu.be/PrfRozz8Ark?si=sgWWUU_kUGPVVuYL)|
 | Problem 5: Find the Maximum Value in an Array | (https://youtu.be/mA5HCfa3v9A?si=EgvoIS2iYlGpMkYC)|
 
